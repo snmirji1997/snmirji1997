@@ -64,16 +64,15 @@ Currently working on healthcare technology platforms and focusing on strengtheni
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=snmirji1997&show_icons=true&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=snmirji1997&show_icons=true&theme=tokyonight&count_private=true" height="170"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmirji1997&layout=compact&theme=tokyonight" height="170"/>
 
 </p>
-
 ---
 
 # 📫 Connect With Me
