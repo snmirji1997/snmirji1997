@@ -43,7 +43,6 @@ Currently working on healthcare technology platforms and focusing on strengtheni
 # 🔭 Currently Working On
 
 - Building scalable healthcare web applications  
-- Writing E2E tests using Cypress  
 - Improving system design understanding  
 
 ---
