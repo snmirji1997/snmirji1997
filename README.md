@@ -1,49 +1,54 @@
 # Hi there 👋 I'm Sachin Mirji
 
-🚀 Full Stack Developer | React • Node.js • PostgreSQL
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;React+%7C+Node.js+%7C+PostgreSQL;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+</p>
+
+🚀 **Full Stack Developer | React • Node.js • PostgreSQL**
 
 I’m a Software Developer passionate about building scalable web applications and clean user experiences. I enjoy working across both frontend and backend, solving real-world problems, and continuously improving my engineering skills.
 
-Currently working on healthcare technology platforms and focusing on strengthening my Data Structures & Algorithms skills for deeper system understanding.
+Currently working on healthcare technology platforms and focusing on strengthening my **Data Structures & Algorithms** skills for deeper system understanding.
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-Frontend
+### Frontend
 - React.js  
 - Next.js  
 - React Native  
 - Material UI  
 - Tailwind CSS  
 
-Backend
+### Backend
 - Node.js  
 - Express.js  
 - REST APIs  
 
-Database
+### Database
 - PostgreSQL  
 - Knex.js  
 
-Testing
+### Testing
 - Cypress (End-to-End Testing)
 
-Tools
+### Tools
 - Git  
 - GitHub  
 - Postman  
 
 ---
 
-## 🔭 Currently Working On
+# 🔭 Currently Working On
 
 - Building scalable healthcare web applications  
+- Writing E2E tests using Cypress  
 - Improving system design understanding  
 
 ---
 
-## 🌱 Currently Learning
+# 🌱 Currently Learning
 
 - Data Structures & Algorithms  
 - System Design  
@@ -51,7 +56,7 @@ Tools
 
 ---
 
-## 💬 Ask Me About
+# 💬 Ask Me About
 
 - React Development  
 - Node.js APIs  
@@ -60,17 +65,30 @@ Tools
 
 ---
 
-## 📫 Connect With Me
+# 📊 GitHub Stats
 
-- 📧 Email: devshn.mirji@gmail.com  
-- 🌍 Location: Bangalore, India
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=snmirji1997&show_icons=true&theme=tokyonight" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=snmirji1997&layout=compact&theme=tokyonight" height="170"/>
+
+</p>
 
 ---
 
-## ⚡ Fun Fact
+# 📫 Connect With Me
 
-I enjoy boxing training 🥊, running, cricket, and photography when I'm not coding.
+- 📧 Email: **devshn.mirji@gmail.com**  
+- 🌍 Location: **Bangalore, India**  
+- 💼 LinkedIn: **https://www.linkedin.com/in/sachinnmirji/**  
 
 ---
 
-⭐ Always open to collaborating on interesting projects and learning opportunities.
+# ⚡ Fun Fact
+
+I enjoy **boxing training 🥊, running, cricket, and photography 📸** when I'm not coding.
+
+---
+
+⭐ **Always open to collaborating on interesting projects and learning opportunities.**
